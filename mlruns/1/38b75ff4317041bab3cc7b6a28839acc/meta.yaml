@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sidjee/code/jessye-se/TaxiFareModel/mlruns/1/38b75ff4317041bab3cc7b6a28839acc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 38b75ff4317041bab3cc7b6a28839acc
+run_uuid: 38b75ff4317041bab3cc7b6a28839acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622560902956
+status: 1
+tags: []
+user_id: unknown
